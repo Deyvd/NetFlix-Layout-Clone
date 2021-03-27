@@ -1,0 +1,22 @@
+header {
+
+    background-color: mediumblue;
+    min-height: 70px;
+    margin: none;
+}
+section {
+    height: calc(100vh - 159px);
+    margin: auto;
+
+}
+.bg-back {
+    background-color: navajowhite;
+}
+section .logo{
+    align-items: stretch;
+}
+
+footer {
+    background-color: mediumblue;
+    min-height: 70px;
+}
